@@ -1,4 +1,4 @@
-f = open("/home/rahul/A-small.in", "r")
+f = open("A-small.in", "r")
 lines = f.readlines()
 #print(lines)
 fo = open("opr.txt", "w")
